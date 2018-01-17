@@ -6,6 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
     "debug": "~2.6.9",
     "express": "~4.15.5",
     "jade": "^1.11.0",
