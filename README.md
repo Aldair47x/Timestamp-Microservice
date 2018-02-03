@@ -7,16 +7,16 @@
 
 ## Installing and Running
 
-1. Make sure that you have `node' and `npm` installed on your computer.
+1. Make sure that you have `node` and `npm` installed on your computer.
 2. Fork and clone this repo on your computer.
 3. `cd` into the root directory and run ` npm install`.
-4. Run `npm start` and point your browser to `localhost:3000
+4. Run `npm start` and point your browser to `localhost:3000`
 
 <h2>The Final Product! </h2>
 
 <p>This web application has been deployed to Heroku, and you can see it live here! https://aldair47xtimestampfcc.herokuapp.com/ </p>
 
-<h2>Tips</h2>
+## Tips
 
 <h2>Restarting the server</h2>
 
